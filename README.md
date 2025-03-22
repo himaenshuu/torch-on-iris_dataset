@@ -15,7 +15,7 @@ This project implements a **Neural Network** using **PyTorch** to classify iris 
 ## Prerequisites 🛠
 Ensure the following dependencies are installed:
 
-```bash
+```bash```
 pip install torch pandas scikit-learn matplotlib
 ```
 
