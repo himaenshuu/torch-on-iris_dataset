@@ -150,7 +150,7 @@ new_model.eval()
 - Implement **dropout layers** to prevent overfitting.
 - Use **batch normalization** for better convergence.
 - Train on **larger datasets** for improved generalization.
-- Implement **hyperparameter tuning** for optimal performance.
+- Implement **hyperparameter tuning** for optimal performance
 
 ## License 📜
 This project is **open-source**. Feel free to modify and improve it!
